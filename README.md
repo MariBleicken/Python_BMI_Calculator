@@ -41,3 +41,15 @@ if BMI>0:
 else: print("Enter valid input")
                     
   </p>
+  
+ <h2>Result </h2>
+ 
+ <p>
+  
+  Enter your name: Mariana
+Enter your weight in pounds: 134
+Enter your weight in inches: 66
+21.625803489439853
+Mariana, You are normal weight.
+  
+  </p>
