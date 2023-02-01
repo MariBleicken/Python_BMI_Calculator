@@ -46,10 +46,10 @@ else: print("Enter valid input")
  
  <p>
   
-  Enter your name: Mariana
-Enter your weight in pounds: 134
-Enter your weight in inches: 66
-21.625803489439853
+Enter your name: Mariana <br>
+Enter your weight in pounds: 134 <br>
+Enter your weight in inches: 66 <br>
+21.625803489439853 <br>
 Mariana, You are normal weight.
   
   </p>
