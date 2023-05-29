@@ -48,7 +48,7 @@ else: print("Enter valid input")
   
 Enter your name: Mariana <br>
 Enter your weight in pounds: 134 <br>
-Enter your weight in inches: 66 <br>
+Enter your height in inches: 66 <br>
 21.625803489439853 <br>
 Mariana, You are normal weight.
   
